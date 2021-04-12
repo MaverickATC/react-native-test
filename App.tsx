@@ -1,7 +1,7 @@
 import AsyncStorage from '@react-native-async-storage/async-storage'
 import { StatusBar } from 'expo-status-bar'
 import React, { useEffect, useRef, useState } from 'react'
-import { StyleSheet, Text, View } from 'react-native'
+import { View } from 'react-native'
 import Spinner from 'react-native-loading-spinner-overlay'
 import Toast from 'react-native-fast-toast'
 
